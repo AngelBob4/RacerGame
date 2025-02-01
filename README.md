@@ -1,1 +1,1 @@
-Racer game
+Racer game for yandex games
